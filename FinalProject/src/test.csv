@@ -1,0 +1,4 @@
+class,gender,age,bodyType,profession,pregnant,isYou,species,isPet,role
+scenario:green,,,,,,,,,
+animal,female,12,overweight,,,cat,false,passenger
+human,female,52,athletic,homeless,false,false,,,passenger
